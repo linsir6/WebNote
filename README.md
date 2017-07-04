@@ -21,7 +21,7 @@
 - [linux下安装MySQL](/WebNote/MySQL相关/云服务器linux下安装MySQL.md)
 - [MySQL基础操作](/WebNote/MySQL相关/mysql基础操作.md)
 - [MySQL导出数据库、表](/WebNote/MySQL相关/Mysql导出数据库、表(有无数据).md)
-- [Error-ER_TRUNCATED_WRONG_VALUE_FOR_FIELD](/MySQL相关/Error--ER_TRUNCATED_WRONG_VALUE_FOR_FIELD.md)
+- [Error-ER_TRUNCATED_WRONG_VALUE_FOR_FIELD](/WebNote/MySQL相关/Error--ER_TRUNCATED_WRONG_VALUE_FOR_FIELD.md)
 - [ERROR-1045-(28000)--Access-denied-for-user-'debian-sys-maint'@'localhost](/WebNote/MySQL相关/ERROR-1045-(28000)--Access-denied-for-user-'debian-sys-maint'@'localho.md)
 
 
