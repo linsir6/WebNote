@@ -9,20 +9,20 @@
 
 ## NodeJS相关
 
-- [淘宝cnpm](/NodeJS相关/淘宝cnpm.md)
-- [koa框架对post内容读取并解析](/NodeJS相关/koa框架对post内容读取并解析.md)
-- [nodejs查询数据库后将值返回前端](/NodeJS相关/nodejs查询数据库后将值返回前端.md)
-- [nodejs项目在云服务器的部署](/NodeJS相关/nodejs项目在云服务器的部署.md)
+- [淘宝cnpm](/WebNote/NodeJS相关/淘宝cnpm.md)
+- [koa框架对post内容读取并解析](/WebNote/NodeJS相关/koa框架对post内容读取并解析.md)
+- [nodejs查询数据库后将值返回前端](/WebNote/NodeJS相关/nodejs查询数据库后将值返回前端.md)
+- [nodejs项目在云服务器的部署](/WebNote/NodeJS相关/nodejs项目在云服务器的部署.md)
 
 ----
 
 ## MySQL相关
 
-- [linux下安装MySQL](/MySQL相关/云服务器linux下安装MySQL.md)
-- [MySQL基础操作](/MySQL相关/mysql基础操作.md)
-- [MySQL导出数据库、表](/MySQL相关/Mysql导出数据库、表(有无数据).md)
+- [linux下安装MySQL](/WebNote/MySQL相关/云服务器linux下安装MySQL.md)
+- [MySQL基础操作](/WebNote/MySQL相关/mysql基础操作.md)
+- [MySQL导出数据库、表](/WebNote/MySQL相关/Mysql导出数据库、表(有无数据).md)
 - [Error-ER_TRUNCATED_WRONG_VALUE_FOR_FIELD](/MySQL相关/Error--ER_TRUNCATED_WRONG_VALUE_FOR_FIELD.md)
-- [ERROR-1045-(28000)--Access-denied-for-user-'debian-sys-maint'@'localhost](/MySQL相关/ERROR-1045-(28000)--Access-denied-for-user-'debian-sys-maint'@'localho.md)
+- [ERROR-1045-(28000)--Access-denied-for-user-'debian-sys-maint'@'localhost](/WebNote/MySQL相关/ERROR-1045-(28000)--Access-denied-for-user-'debian-sys-maint'@'localho.md)
 
 
 
@@ -53,6 +53,6 @@ Unless required by applicable law or agreed to in writing, software distributed 
 # PS
 **已经看到这里啦，不妨给个star~**
 
-![](/AndroidNote/img/background.jpg)
+![](/WebNote/img/background.jpg)
 
 
